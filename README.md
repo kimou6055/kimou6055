@@ -1,6 +1,6 @@
 ![logo](https://github.com/kimou6055/kimou6055/blob/main/kim.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kimou6055&label=Profile%20views&color=0e75b6&style=flat" alt="kimou6055" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimou6055&label=Profile%20views&color=0e75b6&style=flat" alt="kimou6055" /> </p>
 
 <img  align="right" width='400' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="kimou6055" /></a> 
 
