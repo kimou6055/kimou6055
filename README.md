@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/embcue7rj9](https://flowcv.com/resume/embcue7rj9)
 
-- ⚡ Fun fact **I like cats**
+- ⚡ Fun fact **I am also a photographer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
