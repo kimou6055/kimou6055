@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **LLM projects**
 
-- 👨‍💻 All of my projects are available at ([my repos tab](https://github.com/kimou6055?tab=repositories))
+- 👨‍💻 All of my projects are available at [my repos tab](https://github.com/kimou6055?tab=repositories)
 
 - 💬 Ask me about **Machine and Deep learning**
 
