@@ -1,4 +1,4 @@
-![logo](https://github.com/kimou6055/kimou6055/blob/main/kimou6055.png)
+![logo](https://github.com/kimou6055/kimou6055/blob/main/kim.png)
 
 <h3 align="center">A passionate AI engineering Student from Tunisia</h3>
 
