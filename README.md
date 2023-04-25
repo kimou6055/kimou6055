@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimou6055&label=Profile%20views&color=0e75b6&style=flat" alt="kimou6055" /> </p>
 
-<p align="right"> <a href="https://user-images.githubusercontent.com/80464604/234155035-d54067e9-b375-4e84-a127-2deef091ee03.png
-" alt="kimou6055" /></a> </p>
+<img  align="right"  src="https://user-images.githubusercontent.com/80464604/234155035-d54067e9-b375-4e84-a127-2deef091ee03.png
+" alt="kimou6055" /></a> 
 
 - 🔭 I’m currently working on [EspritChatbot](https://github.com/kimou6055/Espritchatbot)
 
