@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimou6055&label=Profile%20views&color=0e75b6&style=flat" alt="kimou6055" /> </p>
 
-<img  align="right" width='400' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="kimou6055" /></a> 
+<img  align="right" width='400' src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="kimou6055" /></a> 
 
 - 🔭 I’m currently working on [EspritChatbot](https://github.com/kimou6055/Espritchatbot)
 
-- 🌱 I’m currently learning ** ML and DL **
+- 🌱 I’m currently learning **ML and DL**
 
 - 👯 I’m looking to collaborate on **LLM projects**
 
