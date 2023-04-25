@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [EspritChatbot](https://github.com/kimou6055/Espritchatbot)
 
-- 🌱 I’m currently learning **ML and DL**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **LLM projects**
 
