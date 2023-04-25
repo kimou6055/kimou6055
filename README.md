@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **LLM projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kimou6055/Espritchatbot](https://github.com/kimou6055)
+- 👨‍💻 All of my projects are available at [https://github.com/kimou6055](https://github.com/kimou6055)
 
 - 💬 Ask me about **Machine and Deep learning**
 
