@@ -4,7 +4,7 @@
 
 <img  align="right" width='400' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="kimou6055" /></a> 
 
-- 🔭 I’m currently working on [EspritChatbot](https://github.com/kimou6055/Espritchatbot)
+- 🔭 I’m currently working on [Espritchatbot-RASA-RWKV](https://github.com/kimou6055/Espritchatbot)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
