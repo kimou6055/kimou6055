@@ -4,7 +4,7 @@
 
 <img  align="right" width='400' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="kimou6055" /></a> 
 
-- 🔭 I’m currently working on [WePrompt](https://github.com/kimou6055/WePrompt)
+- 🔭 I’m currently working on [FIKO](https://github.com/kimou6055/FIKO)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
