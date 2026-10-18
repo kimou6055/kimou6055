@@ -87,5 +87,5 @@ A free native app for iPhone, iPad and Android that turns any Odoo, from version
 📷 Off screen, I'm a photographer.
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kimou6055&label=Profile%20views&color=23296B&style=flat" alt="Profile views" />
+  <img src="https://hits.sh/github.com/kimou6055.svg?label=Profile%20views&color=23296b" alt="Profile views" />
 </p>
