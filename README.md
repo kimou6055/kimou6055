@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Based_in-Tunis-1994A8?style=flat" alt="Based in Tunis" />
 </p>
 
-I started as an AI engineering student at Esprit, building chatbots and computer vision models. Today I run **[Kamka IT](https://kamka-it.com)**, a software company in Tunis. We start from how a business actually operates and turn it into one system: custom ERP, web platforms, automation and an AI layer on the company's own data. Then we host it and keep it running.
+I started as an AI engineering student at university, building chatbots and computer vision models. Today I run **[Kamka IT](https://kamka-it.com)**, a software company in Tunis. We start from how a business actually operates and turn it into one system: custom ERP, web platforms, automation and an AI layer on the company's own data. Then we host it and keep it running.
 
 Most of my code now lives in private company and client repositories, so this page is a map of what I work on rather than a list of public repos.
 
@@ -71,10 +71,10 @@ A free native app for iPhone, iPad and Android that turns any Odoo, from version
 </p>
 
 <details>
-<summary><b>Before Kamka: AI engineering at Esprit</b></summary>
+<summary><b>Before Kamka: AI engineering at university</b></summary>
 <br />
 
-- [Espritchatbot](https://github.com/kimou6055/Espritchatbot-RASA-RWKV): a chatbot that answers questions about Esprit University, built with Rasa and RWKV by the INNOVISION student team.
+- [University chatbot](https://github.com/kimou6055/Espritchatbot-RASA-RWKV): a chatbot that answers students' questions about their university, built with Rasa and RWKV by the INNOVISION student team.
 - [InnoRobots-Detection](https://github.com/kimou6055/InnoRobots-Detection): map, robot and ball tracking.
 - [WePrompt](https://github.com/kimou6055/WePrompt): a text generation model used as an SQL advisor and a project advisor.
 - [episafe-api-prediction](https://github.com/kimou6055/episafe-api-prediction): a prediction API.
