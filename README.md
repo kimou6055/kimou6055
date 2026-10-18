@@ -1,33 +1,91 @@
-![logo](https://github.com/kimou6055/kimou6055/blob/main/kim.png)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimou6055&label=Profile%20views&color=0e75b6&style=flat" alt="kimou6055" /> </p>
-
-<img  align="right" width='400' src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="kimou6055" /></a> 
-
-
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 👯 I’m looking to collaborate on **LLM projects**
-
-- 👨‍💻 All of my projects are available at [my repos tab](https://github.com/kimou6055?tab=repositories)
-
-- 💬 Ask me about **Machine and Deep learning**
-
-- 📫 How to reach me **mohammedkarim.akkari@esprit.tn**
-
-- ⚡ Fun fact **I am also a photographer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/gFAXa58Bgt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gFAXa58Bgt" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/karim-akkari-9613661bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim akkari" height="30" width="40" /></a>
+<p align="center">
+  <img src="./banner.svg" alt="Hi! I'm Karim Akkari, Founder & CEO of Kamka IT" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://kamka-it.com"><img src="https://img.shields.io/badge/Kamka_IT-kamka--it.com-20ADAE?style=flat&labelColor=23296B" alt="Kamka IT" /></a>
+  <a href="https://www.linkedin.com/in/karim-akkari-9613661bb/"><img src="https://img.shields.io/badge/LinkedIn-Karim_Akkari-0A66C2?style=flat" alt="LinkedIn" /></a>
+  <a href="mailto:contact@kamka-it.com"><img src="https://img.shields.io/badge/Email-contact%40kamka--it.com-23296B?style=flat" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Tunis-1994A8?style=flat" alt="Based in Tunis" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimou6055&show_icons=true&locale=en&layout=compact" alt="kimou6055" /></p>
+I started as an AI engineering student at Esprit, building chatbots and computer vision models. Today I run **[Kamka IT](https://kamka-it.com)**, a software company in Tunis. We start from how a business actually operates and turn it into one system: custom ERP, web platforms, automation and an AI layer on the company's own data. Then we host it and keep it running.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimou6055&show_icons=true&locale=en" alt="kimou6055" /></p>
+Most of my code now lives in private company and client repositories, so this page is a map of what I work on rather than a list of public repos.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimou6055&" alt="kimou6055" /></p>
+## What I'm building
+
+### 🧩 Kamka ERP
+
+Our own ERP, on Odoo 18 Community, extended module by module for each department.
+
+- **From lead to signed contract.** Scoping questionnaire, contract, technical annex, quote and specifications signed online, then payment milestones and acceptance testing.
+- **Tunisian compliance built in.** E-invoicing (El Fatoora), withholding tax, VAT, payroll and social contributions under the 2026 finance law.
+- **Team access driven by job role.** The role decides which platforms a newcomer gets (mailbox, ERP, GitHub, chat, password vault…), and every access is cut on the planned departure date.
+- **AI where it saves hours.** Supplier invoices read by Claude into draft bills, a monthly check of the accounting against the accountant's filings, LinkedIn prospecting assisted by Claude with replies turned into CRM opportunities.
+
+Demo on request.
+
+### 🤖 MCP servers: run the business from any AI
+
+- **Kamka ERP MCP server.** 150+ tools that let Claude, ChatGPT, Le Chat, Gemini or Cursor work inside the ERP with the user's own rights. Every write goes through three steps (preview, validate, execute), and the server refuses what it doesn't understand instead of silently ignoring it.
+- **Internal tooling.** MCP servers for ERPNext (138 tools) and Mattermost with Focalboard (234 tools), and one that drives Remotion to produce animated videos.
+
+### 📱 Kamdoo · [kamdoo.kamka-it.com](https://kamdoo.kamka-it.com)
+
+A free native app for iPhone, iPad and Android that turns any Odoo, from version 14 to 20, into a real mobile app. Lists, forms, kanban, calendar and chatter are drawn natively from the company's own Odoo views. Widgets, Dynamic Island, Face ID, offline mode and Siri. Nothing goes through us: the app talks directly to the company's ERP.
+
+*App Store and Google Play: coming soon.*
+
+## Shipped with the Kamka team
+
+| Project | What it is |
+|---|---|
+| [TravelBook.tn](https://travelbook.tn) | Online travel agency for Be MICE Voyages, with an Odoo 18 back office (bookings, counter, payments, catalogue, dashboard) |
+| [StudyGo](https://studygo-tn.com) | Online courses aligned with the Tunisian curriculum, with a back office you can drive from Claude |
+| [Charme Hôtel La Forêt](https://laforet.charmehotels.com.tn) | 4-star hotel in Aïn Draham: direct booking and back office |
+| [CAT Tunisia](https://cat-tunisia.com) | Trilingual website for the hairdressing and beauty confederation, with online membership |
+| [Formee Academy](https://front.formee.academy) | Online SEO school: access granted from the back office, certificates |
+| Piscines Magiline | Custom ERP on Odoo 18 |
+| [Kamka Smart Card](https://tap.kamka-it.com) | Our NFC business card |
+
+## How we work
+
+- **Built with AI, every day.** We develop with Claude: specs, code, tests and reviews.
+- **We run our own servers.** Self-hosted with Coolify, with encrypted backups to two separate destinations, verified.
+- **No lock-in.** Our servers or yours, code transferred or not: it's settled in the contract from day one.
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,js,ts,react,swift,docker,linux,nginx,git,github,githubactions" alt="Python, PostgreSQL, JavaScript, TypeScript, React, Swift, Docker, Linux, Nginx, Git, GitHub, GitHub Actions" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Odoo_18-714B67?style=flat&logo=odoo&logoColor=white" alt="Odoo 18" />
+  <img src="https://img.shields.io/badge/OWL-714B67?style=flat" alt="OWL" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/MCP-23296B?style=flat" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Expo_·_React_Native-000020?style=flat&logo=expo&logoColor=white" alt="Expo and React Native" />
+  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=flat" alt="Coolify" />
+</p>
+
+<details>
+<summary><b>Before Kamka: AI engineering at Esprit</b></summary>
+<br />
+
+- [Espritchatbot](https://github.com/kimou6055/Espritchatbot-RASA-RWKV): a chatbot that answers questions about Esprit University, built with Rasa and RWKV by the INNOVISION student team.
+- [InnoRobots-Detection](https://github.com/kimou6055/InnoRobots-Detection): map, robot and ball tracking.
+- [WePrompt](https://github.com/kimou6055/WePrompt): a text generation model used as an SQL advisor and a project advisor.
+- [episafe-api-prediction](https://github.com/kimou6055/episafe-api-prediction): a prediction API.
+- [Taiwan customer payment defaults](https://github.com/kimou6055/Taiwan-customer-payment-defaulter): comparing data mining methods for predicting credit defaults.
+- [BI_Project](https://github.com/kimou6055/BI_Project): business intelligence from ETL to data mining and visualisation.
+- [KICCAS](https://github.com/kimou6055/KICCAS) and [SDL-Game](https://github.com/kimou6055/SDL-Game): 2D games in C.
+
+</details>
+
+📷 Off screen, I'm a photographer.
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=kimou6055&label=Profile%20views&color=23296B&style=flat" alt="Profile views" />
+</p>

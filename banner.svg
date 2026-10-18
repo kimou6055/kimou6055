@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Hi! I'm Karim Akkari, Founder and CEO of Kamka IT">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161A45"/>
+      <stop offset="1" stop-color="#23296B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22B5AF" stop-opacity="0.75"/>
+      <stop offset="0.45" stop-color="#20ADAE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#20ADAE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="kgrad" gradientUnits="userSpaceOnUse" x1="1630" y1="0" x2="6740" y2="0">
+      <stop offset="0" stop-color="#2F52C4"/>
+      <stop offset="0.5" stop-color="#377EBC"/>
+      <stop offset="1" stop-color="#3AC4B8"/>
+    </linearGradient>
+    <path id="kmark" d="M2425 8910 c-270 -67 -483 -213 -621 -425 -64 -99 -95 -161 -123 -245 -53 -162 -51 -86 -51 -2136 0 -1696 2 -1911 16 -1995 62 -365 352 -678 731 -791 69 -20 99 -23 253 -23 136 0 189 4 240 18 305 84 539 291 645 572 63 165 67 205 74 643 l6 404 240 -229 c851 -808 1166 -1102 1244 -1160 85 -65 235 -138 351 -173 94 -29 122 -33 268 -37 144 -5 174 -3 258 17 115 26 160 45 282 118 107 63 241 184 308 278 58 81 127 229 154 328 46 173 46 411 0 575 -59 208 -136 316 -425 594 -121 117 -368 354 -548 526 -180 173 -327 318 -327 321 0 3 75 80 168 172 494 492 823 830 864 888 111 159 171 300 199 470 51 309 -4 588 -164 825 -56 84 -197 226 -281 284 -168 115 -353 180 -566 197 -96 7 -259 -13 -369 -47 -89 -27 -233 -98 -308 -150 -34 -24 -327 -308 -651 -630 l-589 -586 -6 206 c-7 296 -36 431 -135 627 -120 239 -348 442 -593 530 -153 54 -402 70 -544 34z m435 -438 c256 -108 399 -335 416 -662 14 -253 -42 -521 -155 -755 -103 -211 -171 -294 -606 -735 -182 -184 -361 -366 -398 -405 l-67 -70 3 1090 2 1090 31 85 c54 151 160 277 285 341 102 51 140 59 284 55 119 -3 136 -6 205 -34z m2833 13 c137 -24 239 -73 338 -162 126 -114 198 -311 186 -513 -10 -165 -53 -280 -153 -406 -30 -38 -328 -345 -662 -683 -334 -338 -608 -619 -610 -625 -2 -11 338 -349 1036 -1028 161 -157 312 -310 334 -340 208 -273 151 -662 -123 -843 -110 -74 -162 -88 -314 -89 -119 0 -136 2 -205 28 -135 52 -150 63 -480 370 -734 685 -1019 956 -1097 1046 -217 247 -333 524 -351 840 -18 299 26 528 141 739 93 170 147 229 952 1039 242 244 469 466 505 494 88 68 190 115 286 132 103 19 116 19 217 1z m-2553 -4270 c-27 -235 -134 -395 -319 -471 -60 -25 -78 -28 -191 -28 -105 -1 -136 3 -193 23 -144 49 -259 155 -332 306 -54 109 -75 218 -75 380 0 402 147 772 463 1165 82 101 376 440 562 647 l90 100 3 -1011 c2 -701 -1 -1042 -8 -1111z"/>
+    <g id="lamp" fill="none" stroke-width="2" stroke-linejoin="round">
+      <line x1="0" y1="0" x2="0" y2="46"/>
+      <rect x="-5" y="46" width="10" height="7" rx="1"/>
+      <path d="M -24 80 L -7 53 L 7 53 L 24 80 Z"/>
+      <path d="M -8 80 A 8 8 0 1 0 8 80"/>
+    </g>
+    <style>
+      .off { stroke: #E8EAF6; opacity: .85; }
+      .on { stroke: #22B5AF; }
+      .swing { transform-origin: 730px 0; animation: swing 4s ease-in-out infinite alternate; }
+      .pulse { animation: pulse 4s ease-in-out infinite alternate; }
+      @keyframes swing { from { transform: rotate(-30deg); } to { transform: rotate(-20deg); } }
+      @keyframes pulse { from { opacity: .8; } to { opacity: 1; } }
+      text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <use href="#lamp" x="470" class="off"/>
+  <use href="#lamp" x="535" class="off"/>
+  <use href="#lamp" x="600" class="off"/>
+  <use href="#lamp" x="665" class="off"/>
+  <g class="swing">
+    <circle cx="730" cy="84" r="58" fill="url(#glow)" class="pulse"/>
+    <circle cx="730" cy="81" r="6" fill="#BFF5F2"/>
+    <use href="#lamp" x="730" class="on"/>
+  </g>
+
+  <text x="600" y="158" text-anchor="middle" fill="#F5F6FC" font-size="40" font-weight="500" letter-spacing="7">HI! I'M KARIM AKKARI</text>
+  <text x="608" y="219" text-anchor="end" fill="#22B5AF" font-size="20" font-weight="600" letter-spacing="5">FOUNDER &amp; CEO</text>
+  <g transform="translate(642,211) scale(0.009220,-0.009220) translate(-4185,-6110)">
+    <use href="#kmark" fill="url(#kgrad)"/>
+  </g>
+  <text x="676" y="219" fill="#FFFFFF" font-size="21" font-weight="800" letter-spacing="5">KAMKA IT</text>
+  <text x="600" y="266" text-anchor="middle" fill="#C9CDE8" font-size="17" letter-spacing="1.5">We turn your business into a system. Built, hosted, maintained.</text>
+  <text x="600" y="297" text-anchor="middle" fill="#8A90C0" font-size="13" letter-spacing="4">TUNIS, TUNISIA</text>
+</svg>
